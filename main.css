@@ -14,3 +14,6 @@ article header p{
 body{
   background: #e6e9eb
 }
+img{
+  border-style:none;
+}
