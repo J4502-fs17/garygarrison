@@ -1,7 +1,16 @@
+/*here are colors:
+light sea green: #24779c
+tan: #d0b18c
+dark slate gray: #232b20
+light steel blue #e6e9eb
+dark olive green #726347*/
 h1{
   color: #24779c;
 }
 article header p{
   background-color: #232b20;
   color: #e6e9eb;
+}
+body{
+  background: #e6e9eb
 }
