@@ -12,7 +12,12 @@ sienna #9f7148
   margin: 0 auto;
 }
 
-
+#header h1, #header h2{
+  background-color:#e6d4b6;
+  color:#331c17;
+  padding-left:8px;
+  text-align:center;
+}
 #nav ul{
     list-style-type:none;
     margin:0;
@@ -34,10 +39,16 @@ sienna #9f7148
     border-bottom:1px solid black;
 }
 
-/* Change the link color on hover */
 #nav li a:hover{
     background-color: #331c17;
     color: #fbfaea;
+}
+
+#content{
+  background-color:#814c34;
+  color:black;
+  padding-left:8px;
+  padding-bottom:8px;
 }
 
 img{
