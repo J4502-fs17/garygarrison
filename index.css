@@ -27,6 +27,7 @@
   color:blue;
   font-weight:bold;
   padding:4px;
+  list-style-type: circle;
   font-family:Helvetica, Arial, sans-serif;
 
 }
