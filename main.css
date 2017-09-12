@@ -1,3 +1,7 @@
 h1{
-  color: #24779c
+  color: #24779c;
+}
+article header p{
+  background-color: #232b20;
+  color: #e6e9eb;
 }
