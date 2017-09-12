@@ -7,7 +7,7 @@
 }
 #nav a:link, a:visited{
   display:block;
-  color:yellow;
+  color:white;
   background-color:#98bf21;
   font-weight:bold;
   text-align:center;
@@ -22,12 +22,11 @@
   padding:0;
 }
 
-#links li, a:link, a:visited{
+#links li, a:link{
   display:block;
   color:blue;
   font-weight:bold;
   padding:4px;
   list-style-type: circle;
   font-family:Helvetica, Arial, sans-serif;
-
 }
