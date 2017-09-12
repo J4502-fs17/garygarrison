@@ -21,3 +21,12 @@
 #nav{
   padding:0;
 }
+
+#linksa:link, a:visited{
+  display:block;
+  color:blue;
+  font-weight:bold;
+  padding:4px;
+  font-family:Helvetica, Arial, sans-serif;
+
+}
