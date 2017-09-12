@@ -1,9 +1,24 @@
+/*here are colors:
+linen #fbfaea
+pale goldenrod #e6d4b6
+sienna #814c34
+dark olive green #331c17
+sienna #9f7148
+*/
+
+#container{
+  width:95%;
+  background-color: #fbfaea;
+  margin: 0 auto;
+}
+
+
 #nav ul{
     list-style-type:none;
     margin:0;
     padding:0;
     width:200px;
-    background-color:pink;
+    background-color:#e6d4b6;
     border-top:1px solid black;
     border-left:1px solid black;
     border-right:1px solid black;
@@ -11,7 +26,8 @@
 
 #nav li a{
     display:block;
-    color:blue;
+    font-weight:bold;
+    color:#331c17;
     width:169px;
     padding:8px 16px;
     text-decoration:none;
@@ -20,19 +36,10 @@
 
 /* Change the link color on hover */
 #nav li a:hover{
-    background-color: #555;
-    color: white;
-}
-.active{
-    background-color: #4CAF50;
-    color: white;
+    background-color: #331c17;
+    color: #fbfaea;
 }
 
-#links a:link #links a:visited{
-  display:block;
-  color:blue;
-  font-weight:bold;
-  padding:4px;
-  list-style-type: circle;
-  font-family:Helvetica, Arial, sans-serif;
+img{
+  border-style:none;
 }
