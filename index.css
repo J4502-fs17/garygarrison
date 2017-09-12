@@ -17,6 +17,7 @@ sienna #9f7148
   color:#331c17;
   padding-left:8px;
   text-align:center;
+  font-family: 'Lora', serif;
 }
 #nav ul{
     list-style-type:none;
@@ -37,6 +38,7 @@ sienna #9f7148
     padding:8px 16px;
     text-decoration:none;
     border-bottom:1px solid black;
+    font-family: 'Anton', sans-serif;
 }
 
 #nav li a:hover{
@@ -49,6 +51,7 @@ sienna #9f7148
   color:black;
   padding-left:8px;
   padding-bottom:8px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 img{
