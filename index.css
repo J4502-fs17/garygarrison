@@ -22,7 +22,7 @@
   padding:0;
 }
 
-#linksa:link, a:visited{
+#links a:link, a:visited{
   display:block;
   color:blue;
   font-weight:bold;
