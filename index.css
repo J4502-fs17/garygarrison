@@ -7,7 +7,11 @@ sienna #9f7148
 blueish #7CB3B1
 */
 
-#container{
+body{
+  background-color:#7CB3B1;
+}
+
+  #container{
   width:95%;
   background-color: #fbfaea;
   margin: 0 auto;
@@ -15,7 +19,7 @@ blueish #7CB3B1
 
 #header h1, #header h2{
   background-color:#e6d4b6;
-  color:#7CB3B1;
+  color:#331c17;
   text-align:center;
   font-family: 'Lora', serif;
   font-weight:bold;
@@ -48,7 +52,7 @@ blueish #7CB3B1
 }
 
 #content{
-  background-color:#7CB3B1;
+  background-color:#e6d4b6;
   padding-left:8px;
   padding-bottom:8px;
 }
