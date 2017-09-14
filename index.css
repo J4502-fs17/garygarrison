@@ -4,7 +4,7 @@ pale goldenrod #e6d4b6
 sienna #814c34
 dark olive green #331c17
 sienna #9f7148
-blueish #7ED0E9
+blueish #7ed0e9
 */
 
 #container{
@@ -15,7 +15,7 @@ blueish #7ED0E9
 
 #header h1, #header h2{
   background-color:#e6d4b6;
-  color:#7ED0E9;
+  color:#7ed0e9;
   text-align:center;
   font-family: 'Lora', serif;
   font-weight:bold;
@@ -48,7 +48,7 @@ blueish #7ED0E9
 }
 
 #content{
-  background-color:#7ED0E9;
+  background-color:#7ed0e9;
   padding-left:8px;
   padding-bottom:8px;
 }
