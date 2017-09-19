@@ -7,6 +7,10 @@ sienna #9f7148
 blueish #7CB3B1
 */
 
+html{
+  font-size:100%;
+}
+
 body{
   background-color:#7CB3B1;
 }
@@ -21,8 +25,9 @@ body{
   background-color:#e6d4b6;
   color:#331c17;
   text-align:center;
-  font-family: 'Lora', serif;
+  font-family: "Lora", Georgia, serif;
   font-weight:bold;
+  font-size:2.5rem;
 }
 #nav ul{
     list-style-type:none;
