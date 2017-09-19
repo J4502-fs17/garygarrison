@@ -77,3 +77,12 @@ body{
 img{
   border-style:none;
 }
+
+#footer{
+  color:black;
+  font-family:"Merriweather",Georgia, "Times New Roman" serif;
+  font-size:0.8rem;
+  font-style:italic;
+  border-top:1px solid black;
+  margin-left:5px;
+}
