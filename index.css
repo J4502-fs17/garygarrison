@@ -80,10 +80,6 @@ h2{
   color:red;
 }
 
-img{
-  border-style:none;
-}
-
 #footer{
   color:black;
   font-family:"Raleway",Georgia, "Times New Roman" serif;
@@ -91,4 +87,9 @@ img{
   font-style:italic;
   border-top:1px solid black;
   margin-left:5px;
+  background-color:#7CB3B1;
+}
+
+img{
+  border-style:none;
 }
