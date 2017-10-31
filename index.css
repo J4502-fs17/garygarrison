@@ -79,6 +79,13 @@ h2{
     font-style:italic;
 }
 
+h3{
+    font-family:"Lora", Georgia, serif;
+    font-size:1.6rem;
+    font-style:italic;
+    text-align:center;
+}
+
 #content{
   background-color:#e6d4b6;
   padding-left:8px;
@@ -176,6 +183,7 @@ display: none;
     "a b b f"
     "c c c c"
     ". d d ."
+    ". g g ."
     ". e e ."
   }
   .authorphoto{
@@ -199,6 +207,10 @@ display: none;
   .pullquote{
     margin-top:0px;
     grid-area: f;
+  }
+  .pullquote2{
+    margin-top:0px;
+    grid-area: g;
   }
   .section1 p:first-of-type, .section2 p:first-of-type, .section2 p:first-of-type{
     margin-top: 0px;
