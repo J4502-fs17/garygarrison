@@ -96,6 +96,12 @@ h3{
 display: none;
 }
 
+.pullquote{
+  display:none;
+}
+.pullquote2{
+  display: none;
+}
 
 #joke{
   color:black;
