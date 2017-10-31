@@ -108,6 +108,18 @@ display: none;
     font-weight:bold;
 }
 
+.image img{
+  display:block;
+  width:100%;
+  margin-top:0.5em;
+}
+.image{
+  width:90%;
+  max-width:800px;
+  margin-right:20px;
+  margin-bottom: 20px;
+}
+
 #footer{
   color:black;
   font-family:"Raleway",Georgia, "Times New Roman", serif;
@@ -123,11 +135,17 @@ display: none;
 		flex-direction: row;
 		justify-content: center;
 	}
+
   .authorphoto img{
     display:block;
+    width:100%;
+    margin-top:0.5em;
+  }
+  .authorphoto{
     width:25%;
-    margin:0.5em;
     float:left;
+    margin-right:20px;
+    margin-bottom: 20px;
   }
   #container{
   width:80%;
@@ -169,8 +187,8 @@ display: none;
     grid-area:b;
   }
   .image{
-    margin:0 auto;
     grid-area:c;
+    margin:0 auto;
   }
   .section2{
     grid-area:d;
