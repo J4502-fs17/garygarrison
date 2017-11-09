@@ -23,7 +23,7 @@ margin:0 auto;
 
 .navigation {
 	padding: 10px;
-	background: #fbfaea;
+	background: #e6d4b6;
   border-radius: 5px;
 	margin: 45px auto;
 }
@@ -32,9 +32,11 @@ margin:0 auto;
 	color: #000;
 	padding: 15px;
 	margin: 5px;
+  justify-content: center;
 	background: #e6d4b6;
 	border-radius: 3px;
   font-family:"Arimo", Helvetica, sans-serif;
+  font-weight: bold;
 
 }
 
