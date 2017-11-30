@@ -125,6 +125,22 @@ display: none;
   display: none;
 }
 
+.map-wrapper {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    margin: 10px;
+}
+
+.map-wrapper iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 #joke{
   color:black;
   font-family:"Raleway",Georgia, "Times New Roman", serif;
